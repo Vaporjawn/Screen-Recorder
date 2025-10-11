@@ -2,7 +2,8 @@
 
 A modern, cross-platform screen recording application built with Electron, React, and TypeScript.
 
-![Main Interface](docs/screenshots/main-interface.png)
+<img width="1190" height="799" alt="Screenshot 2025-10-08 at 23 51 01" src="https://github.com/user-attachments/assets/4ca8b54b-64e0-460f-96cf-5a7b98dbd748" />
+
 
 ## Features
 
