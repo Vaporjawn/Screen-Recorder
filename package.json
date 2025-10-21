@@ -48,7 +48,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "typescript": "^5.2.2",
-    "vite": "^4.5.0",
+    "vite": "^5.4.21",
     "vite-plugin-electron": "^0.15.3"
   },
   "build": {
